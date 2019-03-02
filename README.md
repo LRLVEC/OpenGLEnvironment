@@ -1,6 +1,7 @@
 # OpenGLEnvironment
 How to create OpenGL environment for Visual Studio...
-/* []: folders or files to operate... */
+
+//Note: []: folders or files to operate... 
 
 1. Put include\[GL] into [C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.20.27404\include]
 2. Put lib\[x64] into [C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.20.27404\lib\x64]
